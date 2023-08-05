@@ -18,7 +18,7 @@ public class Assignment {
         this.name = name;
         this.dueDate = dueDate;
     }
-
+//j
     /*
      * Returns name of assignment
      */
